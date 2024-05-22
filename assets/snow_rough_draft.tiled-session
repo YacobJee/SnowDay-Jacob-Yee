@@ -1,0 +1,97 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#kennyassets": {
+            "dynamicWrapping": false,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jryee/Documents/Java Coding/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1.7328703703703703,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 648.9233235372697,
+                "y": 408.85920384718145
+            }
+        },
+        "C:/Users/jryee/Documents/Java Coding/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1581.5,
+                "y": 88.5
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#tilemap-backgrounds": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx#tilemap-backgrounds_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "roughdraft.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1691.75,
+                "y": 395.75
+            }
+        },
+        "roughdraft.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "roughdraft.tmx#tilemap-backgrounds": {
+            "scaleInDock": 1
+        },
+        "roughdraft.tmx#tilemap-backgrounds_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/jryee/Documents/Java Coding/Platformer/assets",
+    "last.imagePath": "C:/Users/jryee/Documents/Java Coding/Platformer/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 100,
+    "openFiles": [
+        "platformer-level-1.tmx",
+        "C:/Users/jryee/Documents/Java Coding/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "project": "snow_rough_draft.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/jryee/Documents/Java Coding/PlatformImprovement/assets/platformer-level-1.tmx",
+        "platformer-level-1.tmx",
+        "roughdraft.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
